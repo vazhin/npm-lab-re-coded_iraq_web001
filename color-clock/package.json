@@ -7,8 +7,5 @@
     "test": "echo 'Hello World!'"
   },
   "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "moment": "^2.27.0"
-  }
+  "license": "ISC"
 }
