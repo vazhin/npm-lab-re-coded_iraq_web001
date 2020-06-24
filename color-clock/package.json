@@ -1,7 +1,7 @@
 {
   "name": "color-clock",
   "version": "1.0.0",
-  "description": "a description",
+  "description": "A description",
   "main": "index.js",
   "scripts": {
     "test": "echo 'Hello World!'"
